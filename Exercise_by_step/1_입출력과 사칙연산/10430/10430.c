@@ -13,3 +13,4 @@ int main(void) {
     printf("%d\n", ((A%C) * (B%C))%C);
     return 0;
 }
+
