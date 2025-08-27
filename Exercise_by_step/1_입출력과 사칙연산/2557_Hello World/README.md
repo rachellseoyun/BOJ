@@ -1,5 +1,5 @@
 # BOJ 2557 Hello World
-[문제 링크](https://www.acmicpc.net/problem/2557)
+[LINK](https://www.acmicpc.net/problem/2557)
 
 ## Description
 "Hello World!"를 출력
