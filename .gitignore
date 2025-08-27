@@ -217,3 +217,5 @@ Thumbs.db
 
 marimo/_lsp/
 __marimo__/
+
+.venv/
